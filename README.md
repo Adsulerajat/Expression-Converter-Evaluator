@@ -4,7 +4,7 @@ An interactive **Expression Converter and Evaluator** built with **HTML, CSS, an
 This project converts **infix expressions** into **postfix (RPN)** and **prefix (PN)** notation and evaluates them using **stack-based algorithms** with real-time results and step-by-step visualization.
 
 ## 🚀 Live Demo
-👉 https://your-username.github.io/expression-converter/
+👉 (https://adsulerajat.github.io/Expression-Converter-Evaluator/)
 
 ---
 
